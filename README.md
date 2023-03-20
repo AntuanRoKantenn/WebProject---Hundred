@@ -2,7 +2,7 @@
 
 "451 degrees Fahrenheit"
 
-1. Tomeris Messhitbai
+1. Tomeris Meshitbai
 2. Pashkevich Ruslan
 3. Sain Nargiz
 
